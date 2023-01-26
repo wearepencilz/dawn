@@ -10,8 +10,8 @@
     "1674522468eafaa169": {
       "type": "apps",
       "blocks": {
-        "c976189e-4542-40c4-b500-a294f00b5c4d": {
-          "type": "shopify:\/\/apps\/wonderment\/blocks\/threeColumnShipment\/89d63369-6ee7-4097-ac41-8229c6f90001",
+        "efcfa6a2-42a1-4c55-82cd-3c49ea95ccaf": {
+          "type": "shopify:\/\/apps\/wonderment\/blocks\/shipment\/89d63369-6ee7-4097-ac41-8229c6f90001",
           "settings": {
             "test-tracking-code": "preview-delivered",
             "tracking-status-color-default": "#e5e7e8",
@@ -28,8 +28,6 @@
             "banner-color": "#00bcd4",
             "banner-bg-color": "#ffffff",
             "tracking-block-border-radius": "0",
-            "tracking-block-hero-image": "https:\/\/bit.ly\/3qkar5q",
-            "tracking-block-three-columns-height": 500,
             "button-bg-color": "#fff",
             "button-color": "#000",
             "button-border-radius": "0",
@@ -39,7 +37,7 @@
         }
       },
       "block_order": [
-        "c976189e-4542-40c4-b500-a294f00b5c4d"
+        "efcfa6a2-42a1-4c55-82cd-3c49ea95ccaf"
       ],
       "settings": {
         "include_margins": true
