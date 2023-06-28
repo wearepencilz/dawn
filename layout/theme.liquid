@@ -212,6 +212,13 @@
       document.documentElement.classList.add('shopify-design-mode');
     }
     </script>
+
+  {%- comment -%}Test{%- endcomment -%}
+  <script>
+    console.group('Allowed contries')
+    {% for country in localization.available_countries %}console.log({ code: '{{ country.iso_code }}', name: '{{ country.name }}' }), {% endfor %}
+    console.groupEnd()
+  </script>
   </head>
 
   <body class="gradient">
